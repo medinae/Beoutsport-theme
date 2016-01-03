@@ -1,6 +1,8 @@
 Scores
 ------
 
+![alt text][logo]
+
 [logo]: https://github.com/medinae/Beoutsport-theme/tree/master/resources/bos.png "Beoutsport theme"
 
 
