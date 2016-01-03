@@ -1,7 +1,8 @@
 Scores
 ------
 
-![alt text](https://github.com/medinae/Beoutsport-theme/tree/master/resources/bos.png "Beoutsport theme")
+[logo]: https://github.com/medinae/Beoutsport-theme/tree/master/resources/bos.png "Beoutsport theme"
+
 
 Football ScoreBoard
 	HTML5
