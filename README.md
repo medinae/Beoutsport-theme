@@ -1,7 +1,7 @@
 Scores
 ------
 
-![Alt text](https://github.com/medinae/Beoutsport-theme/tree/master/resources/bos.png)
+![Theme](https://github.com/medinae/Beoutsport-theme/tree/master/resources/bos.png)
 
 
 
